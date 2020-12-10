@@ -63,5 +63,5 @@
     "url": "git+https://github.com/greatrhino/cudly-instagram.git"
   },
   "types": "lib/index.d.ts",
-  "version": "1.0.7"
+  "version": "1.2.0"
 }
