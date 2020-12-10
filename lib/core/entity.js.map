@@ -1,0 +1,1 @@
+{"version":3,"file":"entity.js","sourceRoot":"","sources":["../../../../../src/@yellowpanda-hdd/instagram-web-api-node/lib/core/entity.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;AACb,MAAM,CAAC,cAAc,CAAC,OAAO,EAAE,YAAY,EAAE,EAAE,KAAK,EAAE,IAAI,EAAE,CAAC,CAAC;AAC9D,MAAM,YAAY,GAAG,OAAO,CAAC,cAAc,CAAC,CAAC;AAC7C,MAAM,MAAO,SAAQ,YAAY,CAAC,UAAU;CAC3C;AACD,OAAO,CAAC,MAAM,GAAG,MAAM,CAAC"}
